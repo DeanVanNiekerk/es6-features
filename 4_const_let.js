@@ -1,14 +1,14 @@
 //ES5
-// function someFunc(doIt) {
-//     if (doIt) {
-//         var amount = 1
-//     }
-//     return amount;
-//     //return somevar;
-// }
+function someFunc(doIt) {
+    if (doIt) {
+        var amount = 1
+    }
+    return amount;
+    //return somevar;
+}
 
-//console.log(someFunc(true))
-//console.log(someFunc(false))
+console.log(someFunc(true))
+console.log(someFunc(false))
 
 
 // function someFunc2() {
@@ -29,8 +29,8 @@
 //     return amount;
 // }
 
-//console.log(someFunc(true))
-//console.log(someFunc(false))
+// console.log(someFunc(true))
+// console.log(someFunc(false))
 
 // function someFunc2() {
 //     for (let i = 0; i < 10; i++) {
@@ -39,7 +39,7 @@
 //     return i;
 // }
 
-//console.log(someFunc2())
+// console.log(someFunc2())
 
 // const x = 1;
 // x = 2;

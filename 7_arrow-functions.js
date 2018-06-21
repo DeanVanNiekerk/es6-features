@@ -28,3 +28,4 @@ c.talk();
 
 // let c2 = new Character2();
 // c2.talk();
+
